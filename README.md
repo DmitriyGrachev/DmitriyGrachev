@@ -56,7 +56,7 @@ My goal is to find a **Junior Java Developer** position in a company where I can
   <tr>
     <td align="center"width="96">
       <a href="#-my-projects">
-        <img src="https://user-images.githubusercontent.com/25181517/183896055-c31a92fa-2550-4175-b36c-22340576a350.png" width="48" height="48" alt="RabbitMQ" />
+        <img src="https://skillicons.dev/icons?i=rabbitmq" width="48" height="48" alt="RabbitMQ" />
       </a>
       <br>RabbitMQ
     </td>
@@ -145,7 +145,7 @@ An online appliance store project created to demonstrate fundamental skills with
 ## 📫 How to reach me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/dmitriy-grachev-788884244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="My LinkedIn" height="30" width="40" /></a>
-<a href="https://t.me/Dmitriy_Hrachev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/telegram.svg" alt="My Telegram" height="30" width="40" /></a>
-<a href="mailto:dimagrache@gmail.com" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="My Email" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/dmitriy-grachev-788884244/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="My LinkedIn" height="30" width="40" /></a>
+<a href="https://t.me/Dmitriy_Hrachev" target="blank"><img align="center" src="https://skillicons.dev/icons?i=telegram" alt="My Telegram" height="30" width="40" /></a>
+<a href="mailto:dimagrache@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="My Email" height="30" width="40" /></a>
 </p>
