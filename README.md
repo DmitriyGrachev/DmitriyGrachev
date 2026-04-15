@@ -143,7 +143,7 @@ An online appliance store project created to demonstrate fundamental skills with
 ## 📫 How to reach me
 
 <p align="left">
-<a href="https://www.linkedin.com/in/dmitriy-grachev-788884244/" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="My LinkedIn" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/dmytro-hrachov" target="blank"><img align="center" src="https://skillicons.dev/icons?i=linkedin" alt="My LinkedIn" height="30" width="40" /></a>
 <a href="https://t.me/Dmitriy_Hrachev" target="blank"><img align="center" src="https://skillicons.dev/icons?i=telegram" alt="My Telegram" height="30" width="40" /></a>
 <a href="mailto:dimagrache@gmail.com" target="blank"><img align="center" src="https://skillicons.dev/icons?i=gmail" alt="My Email" height="30" width="40" /></a>
 </p>
