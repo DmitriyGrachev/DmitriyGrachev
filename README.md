@@ -6,7 +6,7 @@
 
 ## 🙋‍♂️ About Me
 
-I am a determined and aspiring Java developer with a strong passion for backend development. I enjoy diving into complex systems, learning best practices, and applying them in my code. I actively study modern technologies like **Spring Boot**, **microservices**, and **Docker**, and I use them in my personal projects to solve real-world problems.
+I am a Java developer with a strong passion for backend development. I enjoy diving into complex systems, learning best practices, and applying them in my code. I actively study modern technologies like **Spring Boot**, **microservices**, and **Docker**, and I use them in my personal projects to solve real-world problems.
 
 <br>
 
